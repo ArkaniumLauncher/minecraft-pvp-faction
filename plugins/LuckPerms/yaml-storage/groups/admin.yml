@@ -14,7 +14,7 @@ permissions:
 - worldedit.*
 - worldguard.*
 parents:
-- player
+- default
 prefixes:
 - '&c[Admin] ':
     priority: 100

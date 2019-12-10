@@ -1,8 +1,12 @@
 name: default
 permissions:
 - chestcommands.open.kit.yml
+- chestcommands.open.warp.yml
 - essentials.kit
 - essentials.kits.starter
 - factions.kit.rank0
 - scoreboardstats.command.toggle
 - scoreboardstats.use
+prefixes:
+- '&c[Player] ':
+    priority: 50

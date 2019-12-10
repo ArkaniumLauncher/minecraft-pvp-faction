@@ -1,0 +1,35 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&eKit Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'kit'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell: &eYou opened the Kit Menu.'
+
+Member:
+  COMMAND: 'kit starter'
+  NAME: '&eSpawn'
+  LORE:
+    - '&7Receive Kit Starter'
+  ID: iron_sword
+  POSITION-X: 1
+  POSITION-Y: 1

@@ -1,0 +1,20 @@
+name: admin
+permissions:
+- bukkit.command.*
+- chestcommands.*
+- essentials.*
+- factions.*
+- luckperms.*
+- matrix.*
+- minecraft.command.*
+- placeholderapi.*
+- scoreboardstats.*
+- titlemanager.*
+- vault.*
+- worldedit.*
+- worldguard.*
+parents:
+- player
+prefixes:
+- '&c[Admin] ':
+    priority: 100

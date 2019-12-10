@@ -1,0 +1,8 @@
+name: player
+permissions:
+- chestcommands.open.warp.yml
+parents:
+- default
+prefixes:
+- '&c[Player] ':
+    priority: 50

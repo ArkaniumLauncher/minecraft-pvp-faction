@@ -1,0 +1,8 @@
+name: default
+permissions:
+- chestcommands.open.kit.yml
+- essentials.kit
+- essentials.kits.starter
+- factions.kit.rank0
+- scoreboardstats.command.toggle
+- scoreboardstats.use

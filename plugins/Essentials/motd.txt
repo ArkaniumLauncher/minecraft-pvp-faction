@@ -1,0 +1,5 @@
+&9&m+---------------------------+
+&7Welcome &b{PLAYER} &7to the &9&lServer!
+&7There are currently &b{ONLINE}&7 players online.
+&7Type &b/help, /rules, /f &7for a list of commands.
+&9&m+---------------------------+

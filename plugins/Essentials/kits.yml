@@ -1,0 +1,40 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  starter:
+    delay: 1440
+    items:
+      - writtenbook 1 title:&4Welcome author:Server lore:Welcome book:Welcome
+      - diamond_pickaxe 1
+      - diamond_sword 1
+      - chainmail_chestplate 1
+      - chainmail_helmet 1
+      - chainmail_leggings 1
+      - chainmail_boots 1
+  tools:
+    delay: 1440
+    items:
+      - dpickaxe 1 efficiency:1
+      - dshovel 1 efficiency:1
+      - daxe 1 efficiency:1
+  tools+:
+    delay: 1440
+    items:
+      - dpickaxe 1 efficiency:2 silk_touch:1
+      - dshovel 1 efficiency:2
+      - daxe 1 efficiency:2
+  food:
+    delay: 1440
+    items:
+      - cookedsteak 32
+      - godapple 16
+      - cookedchicken 32
+      - cookedfish 32

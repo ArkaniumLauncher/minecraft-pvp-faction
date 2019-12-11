@@ -614,7 +614,7 @@ compass-towards-home-perm: false
 # For more information, visit http://wiki.ess3.net/wiki/Essentials_Economy
 
 # Defines the balance with which new players begin. Defaults to 0.
-starting-balance: 50
+starting-balance: 300
 
 # worth-# defines the value of an item when it is sold to the server via /sell.
 # These are now defined in worth.yml

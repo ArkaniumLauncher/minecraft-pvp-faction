@@ -1,4 +1,4 @@
-# Free Starter Template to make your Minecraft PvP/Faction Server
+# Free Minecraft PvP/Faction Server Template
 
 Feel free to contribute ;)
 

@@ -1,6 +1,6 @@
 name: vip
 parents:
-- default
+- player
 prefixes:
 - '&b[VIP] &b':
     priority: 900

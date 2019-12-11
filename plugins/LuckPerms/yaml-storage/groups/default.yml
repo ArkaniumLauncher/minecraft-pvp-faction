@@ -38,10 +38,12 @@ permissions:
 - essentials.warp
 - essentials.warp.list
 - factions.kit.rank0
-- weight.500
+- chestcommands.open.menu.yml
+- chestcommands.open.kit.yml
+- chestcommands.open.warp.yml
 prefixes:
-- '&8[&3Player&8] ':
-    priority: 500
+- '&8[&3Newbie&8] ':
+    priority: 300
 meta:
 - default:
     value: 'true'

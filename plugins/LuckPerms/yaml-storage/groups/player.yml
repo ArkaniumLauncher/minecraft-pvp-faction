@@ -1,0 +1,6 @@
+name: player
+parents:
+- default
+prefixes:
+- '&8[&3Player&8] ':
+    priority: 500

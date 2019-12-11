@@ -46,6 +46,8 @@ Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/mi
 
 ## Worlds
 
+### Spawn
+
 A spawn world is preconfigured in this minecraft server template which containt:
 
 * NPC Shop

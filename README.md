@@ -56,9 +56,11 @@ The Spawn world provided in the template contains:
 
 ### Factions
 
-Add your own world for the game mode faction. This name must be `Factions` to successively works, else your portals (in the spawn) will not work.
+Add your own faction world. This name must be `Factions` to successively works, else your portals (in the spawn) will not work.
 
 ### Mine
+
+Add your own mine world. This name must be `mine` to successively works, else your portals (in the spawn) will not work.
 
 ## Permissions
 

@@ -98,3 +98,12 @@ To remove a user from the owner group:
 ```
 lp user <username> parent remove owner
 ```
+
+## Usefull commands
+
+* `/spawn`
+* `/shop`
+* `/menu`
+* `/home`
+* `/rules`
+* `/f`

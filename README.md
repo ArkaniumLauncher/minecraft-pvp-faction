@@ -1,5 +1,14 @@
 # Free Minecraft PvP/Faction Server Template
 
+Simple Minecraft PvP Faction server template to start a faction server.
+
+* Factions
+* Scoreboard
+* Spawn with portals
+* Shop
+* Anti-cheat
+* Preconfigure permissions
+
 Feel free to contribute ;)
 
 Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/minecraft)

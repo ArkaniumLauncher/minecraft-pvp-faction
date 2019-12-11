@@ -52,6 +52,12 @@ Add in the `server.properties` file:
 level-name=Factions
 ```
 
+To generate the `mine` world, use mv command, for example:
+
+```
+/mv create mine normal
+```
+
 ### Spawn
 
 The Spawn world provided in the template contains:

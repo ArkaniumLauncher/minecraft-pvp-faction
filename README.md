@@ -113,6 +113,7 @@ lp user <username> parent remove owner
 * `/setworldspawn`
 * `/fly`
 * `/god`
+* `/balance`
 * `/eco give <username> <money>`
 * `/mv tp <username> <worldname>`
 

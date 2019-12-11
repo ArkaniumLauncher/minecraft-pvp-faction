@@ -4,8 +4,8 @@ Feel free to contribute ;)
 
 ## Requirements
 
-* Compatible with latest version (1.14)
-* Spigot, Paper or BungeeCord
+* Tested on version 1.14
+* Spigot, Paper
 
 ## Plugins Pack
 

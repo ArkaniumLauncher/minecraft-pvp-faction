@@ -1,11 +1,11 @@
 bounceback: true
 worlds:
-  Factions:
+  world:
     portalgoesto:
       NETHER: nether
   nether:
     portalgoesto:
-      NETHER: Factions
+      NETHER: world
   spawn:
     portalgoesto:
       NETHER: nether

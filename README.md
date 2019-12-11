@@ -46,6 +46,12 @@ Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/mi
 
 ## Worlds
 
+Add in the `server.properties` file:
+
+```
+level-name=Factions
+```
+
 ### Spawn
 
 The Spawn world provided in the template contains:

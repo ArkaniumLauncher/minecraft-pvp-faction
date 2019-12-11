@@ -2,6 +2,8 @@
 
 Feel free to contribute ;)
 
+Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/minecraft)
+
 ## Requirements
 
 * Tested on version 1.14

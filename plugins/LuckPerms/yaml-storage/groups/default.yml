@@ -3,7 +3,7 @@ permissions:
 - essentials.build.*
 - essentials.warps.*
 - multiverse.portal.access.*
-- multiverse.teleport.self
+- multiverse.teleport.self.p
 - bukkit.command.plugins:
     value: false
 - essentials.balance

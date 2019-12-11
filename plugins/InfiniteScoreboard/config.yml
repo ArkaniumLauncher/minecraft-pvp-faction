@@ -1,0 +1,56 @@
+# _____       __ _       _ _         _____                    _                         _
+#|_   _|     / _(_)     (_) |       /  ___|                  | |                       | |
+#  | | _ __ | |_ _ _ __  _| |_ ___  \ `--.  ___ ___  _ __ ___| |__   ___   __ _ _ __ __| |
+#  | || '_ \|  _| | '_ \| | __/ _ \  `--. \/ __/ _ \| '__/ _ \ '_ \ / _ \ / _` | '__/ _` |
+# _| || | | | | | | | | | | ||  __/ /\__/ / (_| (_) | | |  __/ |_) | (_) | (_| | | | (_| |
+# \___/_| |_|_| |_|_| |_|_|\__\___| \____/ \___\___/|_|  \___|_.__/ \___/ \__,_|_|  \__,_|
+#
+#                         Created by Infinite Plugins
+#                                Version: 1.2
+
+board:
+  title:
+    interval: 80
+    liner:
+      - "&7&lmTxServ"
+  lines:
+    1:
+      interval: 5
+      liner:
+        - "-----------------"
+    2:
+      interval: 80
+      liner:
+        - "&7>>&aFaction:"
+        - "&7>>&dPower:"
+
+    3:
+      interval: 80
+      liner:
+        - "%factions_faction%"
+        - "&d%factions_power%/10"
+    4:
+      interval: 80
+      liner:
+        - " "
+    5:
+      interval: 80
+      liner:
+        - "&7>>&aMonnaie"
+        - "&7>>&cGrade:"
+    6:
+      interval: 80
+      liner:
+        - "%vault_eco_balance%"
+        - "%luckperms_prefix%"
+    7:
+      interval: 80
+      liner:
+        - ''
+    8:
+      interval: 5
+      liner:
+        - "-----------------"
+
+disabled-worlds:
+  - "mine"

@@ -1,0 +1,12 @@
+name: owner
+permissions:
+- luckperms.*
+- '*'
+- bukkit.command.plugins
+- op
+- weight.1004
+parents:
+- admin
+prefixes:
+- '&8[&4Owner&8] &4':
+    priority: 1004

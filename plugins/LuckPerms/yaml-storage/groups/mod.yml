@@ -1,0 +1,20 @@
+name: mod
+permissions:
+- essentials.mute.*
+- essentials.chat.spy
+- essentials.jail
+- essentials.jails
+- essentials.kick
+- essentials.kick.notify
+- essentials.msg.url
+- essentials.tempban
+- essentials.togglejail
+- essentials.togglejail.offline
+- essentials.unjail
+- factions.kit.rank1
+- weight.998
+parents:
+- default
+prefixes:
+- '&b[Mod] &b':
+    priority: 998

@@ -1,0 +1,8 @@
+toFactions:
+  location: spawn, -17.403, 63.920, 4.665
+  lines:
+  - '&lGo To &u&lFactions'
+toMine:
+  location: spawn, -46.274, 67.895, -1.318
+  lines:
+  - Go to &uMines

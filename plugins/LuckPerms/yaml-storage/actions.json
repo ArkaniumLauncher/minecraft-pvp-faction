@@ -1,0 +1,1352 @@
+[
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "parent add default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "meta addprefix 100 &c[Admin] "
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "feab8e43-26ea-4330-91b6-3430ce86fc81",
+    "actedName": "mTxSeb",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set luckperms.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set minecraft.command.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set bukkit.command.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set deluxehub.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set multiverse.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set worldguard.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set worldedit.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set placeholderapi.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set vault.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set matrix.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set scoreboardstats.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set scoreboardstats.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set worldborder.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set factions.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set gemseconomy.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set pvpc.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set pvpc.admin false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset pvpc.admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set factionstop.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set factions.kit.rank0 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set factions.kit.rank0 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set chestcommands.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestcommands.open.kit.yml true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestcommands.open.warp.yml true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.kit.starter true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.kit true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset essentials.kit.starter"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.kits.starter true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.unban true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add sv.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.ban true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add sv.logout true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.enderchest.others true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add sv.see true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.ban.notify true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add prefix.1000.&4[&cAdmin&4] &c true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add sv.login true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.ban.offline true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add group.super-mod true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add weight.1000 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove placeholderapi.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove essentials.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove worldguard.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove prefix.100.&c[Admin]  true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove group.player true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove worldedit.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove minecraft.command.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove matrix.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove scoreboardstats.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove titlemanager.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove vault.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove bukkit.command.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove chestcommands.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove factions.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove luckperms.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.help true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.balance true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.tpa true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.list true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.warp true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.ping true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.rules true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.warps.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.buy true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.tpdeny true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.home true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.balance true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.spawn true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.tpaccept true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.msg true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.recipe true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add meta.default.true true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.build.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.info true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.kit true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add weight.5 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.sell true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.trade true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.mail true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.sethome.bed true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add ezauctions.player true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.itemdb true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.kits.tools true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.warp true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.motd true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.delhome true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.info true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.seen true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.mail.send true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.helpop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.warp.list true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add bukkit.command.plugins false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.balancetop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add prefix.5.&8[&3Player&8] &f true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.realname true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.repair true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.protection true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.signs.use.disposal true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.home.bed true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.pay true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.ignore true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove scoreboardstats.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove scoreboardstats.command.toggle true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove factions.kit.rank0 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove chestcommands.open.kit.yml true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add group.co-owner true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add prefix.1004.&8[&4Owner&8] &4 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add * true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add weight.1004 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.msg.url true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.togglejail true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add group.helper true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.unjail true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add prefix.998.&b[Mod] &b true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.jail true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add coreprotect.help true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add weight.998 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.kick.notify true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add chatcontrol.command.clear true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.jails true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add coreprotect.inspect true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.togglejail.offline true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.kick true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "parent add mod"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "parent add vip"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "parent add default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set multiverse.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set multiverse.portal.acces.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set multiverse.portal.access.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset multiverse.portal.access.*"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset multiverse.portal.acces.*"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set multiverse.portal.access.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set holograms.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent set admin"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "feab8e43-26ea-4330-91b6-3430ce86fc81",
+    "actedName": "mTxSeb",
+    "action": "parent set admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "feab8e43-26ea-4330-91b6-3430ce86fc81",
+    "actedName": "mTxSeb",
+    "action": "parent add owner"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent add owner"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add bukkit.command.plugins true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add op true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.enderchest.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.gamemode.all true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.tp.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add essentials.ban.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove essentials.ban true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove essentials.enderchest.others true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove essentials.ban.notify true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove essentials.ban.offline true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add group.default true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.tempban true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add factions.kit.rank1 true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor remove group.vip true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add factions.kit.rank0 true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.help true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.itemdb true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.kits.tools true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.motd true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.seen true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.helpop true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.balancetop true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.realname true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.home.bed true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "owner",
+    "action": "webeditor add luckperms.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add worldguard.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add worldedit.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.chat.spy true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "webeditor add essentials.mute.* true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent remove owner"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "feab8e43-26ea-4330-91b6-3430ce86fc81",
+    "actedName": "mTxSeb",
+    "action": "parent remove admin"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent remove admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "feab8e43-26ea-4330-91b6-3430ce86fc81",
+    "actedName": "mTxSeb",
+    "action": "parent remove owner"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent remove admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add prefix.500.&8[&3Player&8] &f true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add weight.500 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove prefix.5.&8[&3Player&8] &f true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove weight.5 true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent add owner"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "USER",
+    "acted": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actedName": "uiytt",
+    "action": "parent remove owner"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add prefix.500.&8[&3Player&8] true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove prefix.500.&8[&3Player&8] &f true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add prefix.500.&8[&3Player&8]  true"
+  },
+  {
+    "actor": "75810fec-d049-4fb2-ab95-8a485a73ba94",
+    "actorName": "uiytt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove prefix.500.&8[&3Player&8] true"
+  }
+]

@@ -1,20 +1,21 @@
 name: admin
 permissions:
-- bukkit.command.*
-- chestcommands.*
-- essentials.*
-- factions.*
-- luckperms.*
-- matrix.*
-- minecraft.command.*
-- placeholderapi.*
-- scoreboardstats.*
-- titlemanager.*
-- vault.*
+- essentials.ban.*
+- essentials.enderchest.*
+- essentials.tp.*
+- holograms.*
+- multiverse.*
 - worldedit.*
 - worldguard.*
+- essentials.gamemode.all
+- essentials.unban
+- sv.login
+- sv.logout
+- sv.see
+- sv.use
+- weight.1000
 parents:
-- player
+- mod
 prefixes:
-- '&c[Admin] ':
-    priority: 100
+- '&4[&cAdmin&4] &c':
+    priority: 1000

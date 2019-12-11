@@ -26,10 +26,10 @@ menu-settings:
   open-action: 'tell: &eYou opened the Warp Menu'
 
 Home:
-  COMMAND: 'home'
-  NAME: '&eHome'
+  COMMAND: 'spawn'
+  NAME: '&eSpawn'
   LORE:
-    - '&7Go To Home'
+    - '&7Go To Spawn'
   ID: compass
   POSITION-X: 1
   POSITION-Y: 1

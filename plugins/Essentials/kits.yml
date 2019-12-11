@@ -12,7 +12,6 @@ kits:
   starter:
     delay: 1440
     items:
-      - writtenbook 1 title:&4Welcome author:Server lore:Welcome book:Welcome
       - diamond_pickaxe 1
       - diamond_sword 1
       - chainmail_chestplate 1

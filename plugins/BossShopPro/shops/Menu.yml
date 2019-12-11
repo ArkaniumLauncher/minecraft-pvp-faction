@@ -1,0 +1,210 @@
+ShopName: Menu
+DisplayName: '&4&l&nBoss&1&l&nShop&0 &0&lMenu'
+signs:
+  text: '[Menu]'
+  NeedPermissionToCreateSign: true
+shop:
+  glass1:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:RED_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 1
+  glass2:
+    MenuItem:
+    - 'name: &2&l[radioactive]'
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  glass13:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 4
+  glass14:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 5
+  glass15:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 6
+  glass4:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 8
+  glass5:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:RED_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 9
+  glass3:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 10
+  playerstats:
+    MenuItem:
+    - 'lore:&2Money: %balance%'
+    - name:&6[tools] &c&l%displayname% &6[tools]
+    - amount:1
+    - type:PLAYER_HEAD
+    - playerhead:%name%
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 11
+  glass6:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 18
+  buyshopmenu:
+    MenuItem:
+    - lore:&8Here you can buy Items
+    - name:&9&lShop &6[+]
+    - amount:1
+    - type:GLASS
+    RewardType: SHOP
+    Reward: buyshop
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 12
+  glass7:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 37
+  glass12:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 45
+  glass8:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:RED_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 46
+  glass9:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 47
+  glass16:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 49
+  glass17:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 50
+  glass18:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 51
+  glass10:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:BLUE_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 53
+  glass11:
+    MenuItem:
+    - name:&2&l[radioactive]
+    - amount:1
+    - type:RED_STAINED_GLASS_PANE
+    RewardType: NOTHING
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 54

@@ -1,5 +1,5 @@
 &9&m+---------------------------+
-&7Welcome &b{PLAYER} &7to the &9&lServer!
-&7There are currently &b{ONLINE}&7 players online.
-&7Type &b/help, /rules, /f &7for a list of commands.
+&7Bienvenue &b{PLAYER} &7 sur le serveur &9&lmTxServ!
+&7Il y a &b{ONLINE}&7 joueurs connectés.
+&7Ce texte peut être modifié dans plugins/Essentials/motd.txt.
 &9&m+---------------------------+

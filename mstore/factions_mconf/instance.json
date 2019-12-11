@@ -6,6 +6,9 @@
   "worldsClaimingEnabled": {
     "standard": true,
     "exceptions": [
+      "end",
+      "mine",
+      "nether",
       "spawn"
     ]
   },
@@ -24,6 +27,8 @@
   "worldsPvpRulesEnabled": {
     "standard": true,
     "exceptions": [
+      "end",
+      "mine",
       "spawn"
     ]
   },
@@ -45,7 +50,7 @@
   "powerMax": 10.0,
   "powerMin": 0.0,
   "powerPerHour": 2.0,
-  "powerPerDeath": -2.0,
+  "powerPerDeath": -6.0,
   "canLeaveWithNegativePower": true,
   "factionMemberLimit": 0,
   "factionPowerMax": 0.0,
@@ -218,12 +223,12 @@
   "econEnabled": true,
   "econUniverseAccount": "",
   "econChunkCost": {
-    "BUY": 1.0,
+    "BUY": 10.0,
     "SELL": 0.0,
     "CONQUER": 0.0,
     "PILLAGE": 0.0
   },
-  "econCostCreate": 10.0,
+  "econCostCreate": 100.0,
   "econCostSethome": 10.0,
   "econCostWarpAdd": 0.0,
   "econCostWarpRemove": 0.0,

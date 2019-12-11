@@ -1,0 +1,177 @@
+menu-settings:
+  name: '&8Menu'
+  command: 'menu'
+  rows: 4
+stained_glass1:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 1
+  POSITION-Y: 1
+stained_glass2:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 2
+  POSITION-Y: 1
+stained_glass3:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 3
+  POSITION-Y: 1
+stained_glass4:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 4
+  POSITION-Y: 1
+stained_glass5:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 5
+  POSITION-Y: 1
+stained_glass6:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f '
+  POSITION-X: 6
+  POSITION-Y: 1
+stained_glass7:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f'
+  POSITION-X: 7
+  POSITION-Y: 1
+stained_glass8:
+  ID: gray_stained_glass_pane
+  KEEP-OPEN: true
+  NAME: '&f'
+  POSITION-X: 8
+  POSITION-Y: 1
+stained_glass9:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+stained_glass10:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 1
+  POSITION-Y: 2
+  KEEP-OPEN: true
+minage:
+  ID: diamond_pickaxe
+  NAME: '&bMonde Minage'
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: false
+  COMMAND: 'mvtp {player} mine'
+stained_glass13:
+  ID: white_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+Factions:
+  ID: grass_block
+  NAME: '&cFactions'
+  POSITION-X: 8
+  POSITION-Y: 2
+  KEEP-OPEN: false
+  COMMAND: 'mvtp {player} Factions'
+stained_glass16:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 9
+  POSITION-Y: 2
+  KEEP-OPEN: true
+stained_glass17:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 1
+  POSITION-Y: 3
+  KEEP-OPEN: true
+Discord:
+  ID: 'player_head'
+  NAME: '&5Discord: mTxServ'
+  SKULL-OWNER: 'SkidzInc'
+  POSITION-X: 4
+  POSITION-Y: 3
+  KEEP-OPEN: true
+Twitter:
+  ID: 'player_head'
+  NAME: '&bTwitter: @mTxServ'
+  SKULL-OWNER: 'MHF_Twitter'
+  POSITION-X: 5
+  POSITION-Y: 3
+  KEEP-OPEN: true
+Youtube:
+  ID: 'player_head'
+  NAME: '&4Youtube: mTxServYT'
+  SKULL-OWNER: 'MHF_YouTube'
+  POSITION-X: 6
+  POSITION-Y: 3
+  KEEP-OPEN: true
+stained_glass18:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 9
+  POSITION-Y: 3
+  KEEP-OPEN: true
+stained_glass19:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 1
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass20:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 2
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass21:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 3
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass22:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 4
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass23:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass24:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 6
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass25:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 7
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass25:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+stained_glass26:
+  ID: gray_stained_glass_pane
+  NAME: '&f'
+  POSITION-X: 9
+  POSITION-Y: 4
+  KEEP-OPEN: true

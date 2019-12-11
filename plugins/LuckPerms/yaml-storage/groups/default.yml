@@ -1,8 +1,47 @@
 name: default
 permissions:
-- chestcommands.open.kit.yml
+- essentials.build.*
+- essentials.warps.*
+- multiverse.portal.access.*
+- bukkit.command.plugins:
+    value: false
+- essentials.balance
+- essentials.delhome
+- essentials.home
+- essentials.ignore
+- essentials.info
 - essentials.kit
 - essentials.kits.starter
+- essentials.list
+- essentials.mail
+- essentials.mail.send
+- essentials.msg
+- essentials.pay
+- essentials.ping
+- essentials.recipe
+- essentials.rules
+- essentials.sethome.bed
+- essentials.signs.use.balance
+- essentials.signs.use.buy
+- essentials.signs.use.disposal
+- essentials.signs.use.info
+- essentials.signs.use.kit
+- essentials.signs.use.protection
+- essentials.signs.use.repair
+- essentials.signs.use.sell
+- essentials.signs.use.trade
+- essentials.signs.use.warp
+- essentials.spawn
+- essentials.tpa
+- essentials.tpaccept
+- essentials.tpdeny
+- essentials.warp
+- essentials.warp.list
 - factions.kit.rank0
-- scoreboardstats.command.toggle
-- scoreboardstats.use
+- weight.500
+prefixes:
+- '&8[&3Player&8] ':
+    priority: 500
+meta:
+- default:
+    value: 'true'

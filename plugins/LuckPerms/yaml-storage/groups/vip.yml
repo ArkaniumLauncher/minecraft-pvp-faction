@@ -1,0 +1,6 @@
+name: vip
+parents:
+- default
+prefixes:
+- '&b[VIP] &b':
+    priority: 900

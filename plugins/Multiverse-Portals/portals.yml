@@ -1,0 +1,21 @@
+portals:
+  Factions:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: uiytt
+    location: -19.0,61.0,6.0:-17.0,65.0,6.0
+    world: spawn
+    destination: Factions
+  mine:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: uiytt
+    location: -48.0,65.0,-3.0:-48.0,67.0,-1.0
+    world: spawn
+    destination: mine

@@ -1,0 +1,114 @@
+# Citizens NPC Storage
+
+
+last-created-npc-id: 2
+npc:
+  '0':
+    name: §d§lMenu
+    uuid: cffdefff-e371-4245-9c29-619aff34673d
+    traits:
+      age:
+        age: 0
+        locked: true
+      type: VILLAGER
+      lookclose:
+        range: '5.0'
+        enabled: false
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      location:
+        world: spawn
+        x: '-10.4333'
+        y: '61.0'
+        z: '-1.4783'
+        yaw: '-36.6425'
+        pitch: '0.0'
+      spawned: true
+      owner:
+        owner: mTxSeb
+        uuid: feab8e43-26ea-4330-91b6-3430ce86fc81
+    traitnames: type,location,owner,mounttrait,age,lookclose,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    name: §d§lShop
+    uuid: 85a6e8ed-e2d7-4947-8a53-50120eaef41a
+    traits:
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      location:
+        world: spawn
+        x: '-49.3'
+        y: '65.0'
+        z: '-11.628'
+        yaw: '-53.004'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: VILLAGER
+      profession: LIBRARIAN
+      owner:
+        owner: mTxSeb
+        uuid: feab8e43-26ea-4330-91b6-3430ce86fc81
+    traitnames: type,location,owner,mounttrait,age,lookclose,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    name: §d§lMenu
+    uuid: 1432cf80-8e4e-4c5f-aca7-71b79cb23858
+    traits:
+      type: VILLAGER
+      location:
+        world: spawn
+        x: '-49.404'
+        y: '65.0'
+        z: '8.514'
+        yaw: '-115.6194'
+        pitch: '0.0'
+      spawned: true
+      age:
+        age: 0
+        locked: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: mTxSeb
+        uuid: feab8e43-26ea-4330-91b6-3430ce86fc81
+    traitnames: type,location,owner,mounttrait,age,lookclose,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

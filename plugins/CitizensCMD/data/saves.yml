@@ -1,0 +1,19 @@
+npc-data:
+  npc-0:
+    cooldown: 0
+    right-click-commands:
+    - '[none] menu'
+    left-click-commands: []
+    price: 0
+  npc-1:
+    cooldown: 0
+    right-click-commands:
+    - '[none] shop'
+    left-click-commands: []
+    price: 0
+  npc-2:
+    price: 0.0
+    right-click-commands:
+    - '[none] menu'
+    left-click-commands: []
+    cooldown: 0

@@ -1,0 +1,20 @@
+# see https://github.com/okx-code/Rankup3/wiki/Rank-format      
+
+# this name doesn't matter
+Aexample:
+  # the name of the group
+  # players have to be in this rank to rankup
+  rank: 'default'
+  # the name of the rank a player can rankup to
+  next: 'player'
+  # List of requirements to go to the next rank
+  # This example will charge 1000 money to rankup from A to B.
+  # https://github.com/okx-code/Rankup3/wiki/Requirements
+  # custom requirements can also be added by other plugins.
+  requirements:
+    - 'placeholder %factions_factionpowermax% < 999999'
+  # the console will run these commands when a player ranks up
+  # nb: groups are automatically changed with vault
+  #commands:
+  # this will run when a player ranks up from A to B.
+  #- 'say {PLAYER} well done for ranking up from {OLD_RANK} to {RANK}!'

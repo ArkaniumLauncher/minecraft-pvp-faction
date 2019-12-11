@@ -49,7 +49,7 @@
   "advancedLocalPollingDebug": false,
   "cleanTaskPeriodMillis": 86400000,
   "cleanTaskOffsetMillis": 0,
-  "cleanTaskLastMillis": 1575936058829,
+  "cleanTaskLastMillis": 1576022454376,
   "catchingMongoDbErrorsOnSave": true,
   "catchingMongoDbErrorsOnDelete": true,
   "debugEnabled": false,

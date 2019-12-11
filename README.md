@@ -2,6 +2,8 @@
 
 Simple PvP Faction template to start your faction server.
 
+![Spawn](/spawn.png)
+
 * Factions
 * Scoreboard
 * Spawn with portals

@@ -16,7 +16,7 @@ Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/mi
 ## Requirements
 
 * Tested on Paper 1.14
-* Spigot 1.14, Paper 1.14
+* Compatible Spigot 1.14, Paper 1.14
 
 ## Plugins Pack
 

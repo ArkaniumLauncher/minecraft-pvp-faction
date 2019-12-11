@@ -6,9 +6,9 @@
   "worldsClaimingEnabled": {
     "standard": true,
     "exceptions": [
-      "end",
+      "world_end",
       "mine",
-      "nether",
+      "world_nether",
       "spawn"
     ]
   },
@@ -27,7 +27,7 @@
   "worldsPvpRulesEnabled": {
     "standard": true,
     "exceptions": [
-      "end",
+      "world_end",
       "mine",
       "spawn"
     ]

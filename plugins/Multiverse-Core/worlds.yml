@@ -140,7 +140,7 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Factions:
+  world:
     ==: MVWorld
     hidden: 'false'
     alias: Factions

@@ -1,6 +1,6 @@
 # Free Minecraft PvP/Faction Server Template
 
-Simple Minecraft PvP Faction server template to start a faction server.
+Simple PvP Faction template to start your faction server.
 
 * Factions
 * Scoreboard
@@ -48,11 +48,17 @@ Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/mi
 
 ### Spawn
 
-A spawn world is preconfigured in this minecraft server template which containt:
+The Spawn world provided in the template contains:
 
 * NPC Shop
 * NPC Menu
 * Portals
+
+### Factions
+
+Add your own world for the game mode faction. This name must be `Factions` to successively works, else your portals (in the spawn) will not work.
+
+### Mine
 
 ## Permissions
 
@@ -65,15 +71,15 @@ LuckPerms is included with this preconfigured groups/permissions:
 * Player (player)
 * Default (default permission group)
 
-When a player create or join faction, the rank change from `default` group to `player` group.
+When a player create or join a faction, this rank change from `default` group to `player` group.
 
-To add full rights to an user:
+To add full rights to a user:
 
 ```
 lp user <username> parent add owner
 ```
 
-To remove an user from the owner group:
+To remove a user from the owner group:
 
 ```
 lp user <username> parent remove owner

@@ -81,7 +81,7 @@ Factions:
   POSITION-X: 8
   POSITION-Y: 2
   KEEP-OPEN: false
-  COMMAND: 'mvtp {player} Factions'
+  COMMAND: 'mvtp {player} world'
 stained_glass16:
   ID: gray_stained_glass_pane
   NAME: '&f'

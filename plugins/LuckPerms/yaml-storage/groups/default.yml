@@ -41,6 +41,8 @@ permissions:
 - chestcommands.open.menu.yml
 - chestcommands.open.kit.yml
 - chestcommands.open.warp.yml
+- bossshop.open.command
+- bossshop.open.command.menu
 prefixes:
 - '&8[&3Newbie&8] ':
     priority: 300

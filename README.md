@@ -7,7 +7,7 @@ Simple PvP Faction template to start your faction server.
 * Spawn with portals
 * Shop
 * Anti-cheat
-* Preconfigure permissions
+* Preconfigured permissions
 
 Feel free to contribute ;)
 

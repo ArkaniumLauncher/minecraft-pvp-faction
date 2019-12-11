@@ -51,7 +51,10 @@ LuckPerms is included with this preconfigured groups/permissions:
 * Admin (admin)
 * Moderator (mod)
 * VIP (vip)
+* Player (player)
 * Default (default permission group)
+
+When a player create or join faction, the rank change from `default` group to `player` group.
 
 To add full rights to an user:
 

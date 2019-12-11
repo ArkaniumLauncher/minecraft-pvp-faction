@@ -48,11 +48,6 @@ Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/mi
 
 ## Worlds
 
-Add in the `server.properties` file:
-
-```
-level-name=Factions
-```
 
 To generate the `mine` world, use mv command, for example:
 

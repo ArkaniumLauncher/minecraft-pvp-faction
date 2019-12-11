@@ -2,10 +2,10 @@ bounceback: true
 worlds:
   world:
     portalgoesto:
-      NETHER: nether
-  nether:
+      NETHER: world_nether
+  world_nether:
     portalgoesto:
       NETHER: world
   spawn:
     portalgoesto:
-      NETHER: nether
+      NETHER: world_nether

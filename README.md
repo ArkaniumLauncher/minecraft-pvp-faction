@@ -11,7 +11,7 @@ Simple PvP Faction template to start your faction server.
 * Anti-cheat
 * Preconfigured permissions
 
-Feel free to contribute ;)
+Special Thanks to uiytt! Feel free to contribute ;)
 
 Sponsor: [mTxServ - Minecraft Server Hosting](https://mtxserv.com/host-server/minecraft)
 

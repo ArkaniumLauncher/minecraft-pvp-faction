@@ -103,9 +103,22 @@ lp user <username> parent remove owner
 
 ## Usefull commands
 
+* `/help`
 * `/spawn`
 * `/shop`
 * `/menu`
 * `/home`
 * `/rules`
 * `/f`
+* `/setworldspawn`
+* `/fly`
+* `/god`
+* `/eco give <username> <money>`
+* `/mv tp <username> <worldname>`
+
+## HowTo
+
+* [FR - LuckPerms](https://mtxserv.com/fr/article/12371/luckperms_gerez_les_permissions_de_votre_serveur_minecraft)
+* [FR - Holographic Displays](https://mtxserv.com/fr/article/12295/creer_des_affichages_holographiques_sur_votre_carte)
+* [FR - Rankup](https://mtxserv.com/fr/article/12275/rankup_modifiez_dynamiquement_le_rang_des_joueurs)
+* [FR - PvP Faction](https://mtxserv.com/fr/article/12650/serveur_minecraft_pvp_faction)

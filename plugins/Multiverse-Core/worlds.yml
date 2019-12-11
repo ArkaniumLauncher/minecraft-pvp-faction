@@ -49,7 +49,7 @@ worlds:
   world_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: nether
+    alias: world_nether
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -143,7 +143,7 @@ worlds:
   world:
     ==: MVWorld
     hidden: 'false'
-    alias: Factions
+    alias: world
     color: WHITE
     style: NORMAL
     pvp: 'true'
